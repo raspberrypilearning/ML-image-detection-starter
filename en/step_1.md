@@ -10,7 +10,7 @@ In this activity, you will use the amazing online machine learning engine called
 In this activity, you will use a cloud-based machine learning engine called Teachable Machine (with Scratch!) to create a project that will recognise a single image class (a hotdog) and tell you when it detects this image. 
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://mitmedialab.github.io/prg-extension-boilerplate/httyr/" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
@@ -33,7 +33,7 @@ title: What you will need
 
 ### Downloads
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
++ Download the project [starter file](http://rpf.io/p/en/hotdog-not-hotdog-starter -go){:target="_blank"} if working offline
 
 --- /collapse ---
 
@@ -55,6 +55,6 @@ title: Additional information for educators
 
 You can download the completed project [here](https://rpf.io/p/en/hotdog-not-hotdog-get){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/hotdog-not-hotdog/print){:target="_blank"}.
 
 --- /collapse ---
