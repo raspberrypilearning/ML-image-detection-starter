@@ -5,7 +5,7 @@ In this activity, you will use the amazing online machine learning engine called
 ### What you will make
 
 --- no-print ---
-In this activity, you will use a cloud-based machine learning engine called Watson (with Scratch!) to create a project that will recognise a single image class (a hotdog) and tell you when it detects this image. 
+In this activity, you will use a cloud-based machine learning engine called Teachable Machine (with Scratch!) to create a project that will recognise a single image class (a hotdog) and tell you when it detects this image. 
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
