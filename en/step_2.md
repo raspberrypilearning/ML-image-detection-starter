@@ -65,7 +65,9 @@ Change the name of your second empty class to **not** and the name of your objec
 --- /task ---
 
 --- task ---
-Hold down the record button under your empty class and move around in front of your camera, or hold up several things that are **NOT** your object. This will train the AI on things that are **not** your object and allow it to compare. 
+Hold down the record button under your empty class and move around in front of your camera, or hold up several things that are **NOT** your object. 
+
+This will train the AI on things that are **not** your object and allow it to compare. 
 ![Class Name Edit 2](images/classname2.png)
 --- /task ---
 
