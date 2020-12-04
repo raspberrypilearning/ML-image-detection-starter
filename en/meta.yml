@@ -1,11 +1,12 @@
-title: ML-image-detection-starter
+title: Hotdog / Not Hotdog
 hero_image: images/banner.png
-description: ML-image-detection-starter description
+description: Use Machine LEarning and a webcam to detect whther something is a hotdog or not.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-11-24"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Create a machine learning model
+  - title: Make an image detector
   - title: What next?
