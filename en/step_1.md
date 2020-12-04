@@ -7,11 +7,12 @@ In this activity, you will use the amazing online machine learning engine called
 --- no-print ---
 In this activity, you will use a cloud-based machine learning engine called Teachable Machine (with Scratch!) to create a project that will recognise a single image class (a hotdog) and tell you when it detects this image. 
 
-You will be able to detect any image or object you like in your project. For this project, we used our Hacker Hotdog mascot.)
+In this instance, we have used our *Hacker Hotdog* mascot but you will be able to detect any image or object you like in your project.
+![Hotdog Man](images/hotdog-200x250.png)
 --- /no-print ---
 
 --- print-only ---
-![Hotdog Man](images/hotdog-200x250.png)
+
 --- /print-only ---
 
 --- collapse ---
@@ -29,7 +30,7 @@ title: What you will need
 
 ### Downloads
 
-+ Download the project [starter file](http://rpf.io/p/en/hotdog-not-hotdog-starter -go){:target="_blank"} if working offline
++ Download the project [starter file](http://rpf.io/p/en/hotdog-not-hotdog-starter-go){:target="_blank"} if working offline
 
 --- /collapse ---
 
@@ -49,7 +50,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](https://rpf.io/p/en/hotdog-not-hotdog-get){:target="_blank"}.
+You can download the completed project [here](https://rpf.io/p/en/hotdog-not-hotdog-get){:target="_blank"}. You will need to open the project again in the [online only 'fork'](http://rpf.io/ml-scratch){:target="_blank"} of Scratch 3 and paste in your own Teachable Machine model URL.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/hotdog-not-hotdog/print){:target="_blank"}.
 
