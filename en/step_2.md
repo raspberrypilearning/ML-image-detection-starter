@@ -24,6 +24,7 @@ Once trained, we’ll test and **export** your model so it can be used in Scratc
 
 --- task ---
 Choose an object or picture to use as your subject. I used a printed out version of the Hacker Hotdog, but you could also use a toy or other image.
+![Hotdog Man](images/hotdog-200x250.png)
 --- /task ---
 
 --- task ---
