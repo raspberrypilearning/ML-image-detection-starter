@@ -2,6 +2,8 @@
 
 In this activity, you will use the amazing online machine learning engine called teachable machine with Scratch to create a project that will recognise different objects! (In this case, it's our Hacker Hotdog mascot.)
 
+![CHotdog Man](images/hotdog-200x250.png)
+
 ### What you will make
 
 --- no-print ---
