@@ -1,14 +1,14 @@
 ## Create a machine learning model
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+In this activity, you will use the amazing online machine learning engine called Teachable Machine with Scratch to create a project that will recognise different objects!
+
+Teachable Machine is a web-based tool created by Google that makes creating machine learning models fast, easy, and accessible to everyone. As this project requires connection to the cloud based machine learning engine, offline work is not possible.
+
+Let’s get started!
+
 
 --- task ---
-
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
-
-You should see...
+We’re going to use it to create a Vision project, so navigate to the [Teachable Machine](https://teachablemachine.withgoogle.com/train){:target="_blank"} site now and choose ‘Image Project’ from the three options:
  
 ![starter project](images/starter_project.png)
 
