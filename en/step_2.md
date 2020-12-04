@@ -52,10 +52,21 @@ Try not to sit too still if you’re in the shot - it might mean the AI recognis
 --- /task ---
 
 --- task ---
-
-Step content...
+Rename the class to the thing you are holding up in the picture. This will help when you begin working in Scratch. I've called my class **hotdog**.
+![Class Name Edit](images/classname.png)
 
 --- /task ---
 
+The Teachable Machine won't work with just one class. It needs a second one to compare against, so we will create that now.
+
+--- task ---
+Change the name of your second empty class to **not** and the name of your object. I called mine **nothotdog**.
+![Class Name Edit 2](images/classname2.png)
+--- /task ---
+
+--- task ---
+Hold down the record button under your empty class and move around in front of your camera, or hold up several things that are **NOT** your object. This will train the AI on things that are **not** your object and allow it to compare. 
+![Class Name Edit 2](images/classname2.png)
+--- /task ---
 
 --- save ---
