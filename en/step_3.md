@@ -9,7 +9,7 @@ Open the blank Machine Learning Scratch project (if you haven't already) [by cli
 ---
 title: Pro Tip
 ---
-You can open a blank Machine Learning Scratch project any time by going to rpf.io/ml-scratch!
+You can open a blank Machine Learning Scratch project any time by going to [rpf.io/ml-scratch](http://rpf.io/ml-scratch){:target="_blank"}!
 
 --- /collapse ---
 
