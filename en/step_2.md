@@ -62,6 +62,7 @@ The Teachable Machine won't work with just one class. It needs a second one to c
 --- task ---
 Change the name of your second empty class to **not** and the name of your object. I called mine **nothotdog**.
 ![Class Name Edit 2](images/classname2.png)
+
 --- /task ---
 
 --- task ---
@@ -69,6 +70,7 @@ Hold down the record button under your empty class and move around in front of y
 
 This will train the AI on things that are **not** your object and allow it to compare. 
 ![Class Name Edit 2](images/classname2.png)
+
 --- /task ---
 
 Now that we have our two datasets created, we will train the model to recognise the difference between them and tell us if it sees a hotdog or something else. 
@@ -80,6 +82,7 @@ Click it to begin training the Teachable machine:
 ![Train Model Button](images/trainmodel.png)
 **IMPORTANT:** Do **NOT** close or change your browser tab while you are waiting or the Training won't work!
 ![Training Warning](images/trainingwarning.png)
+
 --- /task ---
 
 You'll see a progress bar appear where the button was once you click it, showing how far through the training process the Teachable Machine has progressed:
@@ -90,6 +93,7 @@ Once you have trained your model, you can test that it works correctly by holdin
 ![Output Bars](images/outputbar.png)
 
 Switch between different objects and watch the machine predict what it is seeing!
+
 --- /task ---
 
 The next step is to **Export** your model. This means saving the model online so you can use it in your Scratch project.
@@ -100,6 +104,8 @@ You can easily export your model by clicking the button shown on the top right o
 
 This will show you a popup asking you to choose few options:
 ![Export Options](images/exportoptions.png)
+
 --- /task ---
+
 
 --- save ---
