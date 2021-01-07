@@ -71,4 +71,34 @@ This will train the AI on things that are **not** your object and allow it to co
 ![Class Name Edit 2](images/classname2.png)
 --- /task ---
 
+Now that we have our two datasets created, we will train the model to recognise the difference between them and tell us if it sees a hotdog or something else. 
+
+--- task ---
+To the right of the place where you can see your datasets, there is a grey button labelled **Train Model**. 
+
+Click it to begin training the Teachable machine:
+![Train Model Button](images/trainmodel.png)
+**IMPORTANT:** Do **NOT** close or change your browser tab while you are waiting or the Training won't work!
+![Training Warning](images/trainingwarning.png)
+--- /task ---
+
+You'll see a progress bar appear where the button was once you click it, showing how far through the training process the Teachable Machine has progressed:
+![Training Progress Bar](images/progressbar.png)
+
+--- task ---
+Once you have trained your model, you can test that it works correctly by holding up the objects or images one at a time and watching the changing bands at the bottom left which show the AI’s certainty that it is looking at the object shown in one of the classes you made:
+![Output Bars](images/outputbar.png)
+
+Switch between different objects and watch the machine predict what it is seeing!
+--- /task ---
+
+The next step is to **Export** your model. This means saving the model online so you can use it in your Scratch project.
+
+--- task ---
+You can easily export your model by clicking the button shown on the top right of your screen:
+![Export Button](images/exportbutton.png)
+
+This will show you a popup asking you to choose few options:
+![Export Options](images/exportoptions.png)
+--- /task ---
 --- save ---
