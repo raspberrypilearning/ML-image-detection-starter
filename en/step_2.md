@@ -108,10 +108,11 @@ Ensure you have **Upload (shareable link)** selected and click **Upload my model
 
 ![Export Options](images/exportoptions.png)
 
+--- /task ---
+
+--- task ---
 Copy the URL shown under **Your shareable link:** by clicking the **Copy** button.
 ![Copy your shareable link](images/copybutton.png)
 
+Leave this tab open, or paste your URL into a text file so you don't lose it - we'll need it for Scratch in just a minute!
 --- /task ---
-
-
---- save ---
