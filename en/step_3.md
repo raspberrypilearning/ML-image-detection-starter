@@ -24,7 +24,9 @@ Make sure the sprite is selected before you start coding.
 
 --- /task ---
 
-On the left, you'll notice some new menus that don't exist in the normal version of Scratch. These are special extensions created by MIT to work with some really cool new technology and they make this fork incompatible with the normal version of Scratch you usually use. What that means is that any projects you make here, won't work there. 
+On the left, you'll notice some new menus that don't exist in the normal version of Scratch. These are special extensions created by MIT to work with some really cool new technology and they make this fork incompatible with the normal version of Scratch you usually use. 
+
+What that means is that any projects you make here, won't work there. 
 
 --- collapse ---
 ---
@@ -50,7 +52,7 @@ This will direct Scratch to access the model we just created and stored on the c
 
 --- task ---
 
-Add the updated `Use Model`{:class="block3extensions"} block, along with a `When green flag clicked` block to your workspace.
+Add the updated `Use Model`{:class="block3extensions"} block, along with a `When green flag clicked`{:class="block3events"} block to your workspace.
 ![Script blocks 1](images/script1.png)
 
 --- /task ---
