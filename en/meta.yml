@@ -1,6 +1,6 @@
-title: Hotdog / Not Hotdog
+title: Hotdog/Not hotdog
 hero_image: images/banner.png
-description: Use Machine Learning and a webcam to detect whether something is a hotdog or not.
+description: Use machine learning and a webcam to detect whether something is a hotdog or not
 version: 4
 listed: false
 copyedit: false
