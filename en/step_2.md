@@ -2,13 +2,13 @@
 
 In this activity, you will use the amazing online machine learning engine called Teachable Machine with Scratch to create a project that will recognise different objects!
 
-Teachable Machine is a web-based tool created by Google that makes creating machine learning models fast, easy, and accessible to everyone. As this project requires connection to the cloud based machine learning engine, offline work is not possible.
+Teachable Machine is a web-based tool created by Google that makes creating machine learning models fast, easy, and accessible to everyone. As this project requires connection to the cloud-based machine learning engine, offline work is not possible.
 
-Let’s get started!
+Let's get started!
 
 
 --- task ---
-We’re going to use it to create a Vision project, so navigate to the [Teachable Machine](https://teachablemachine.withgoogle.com/train){:target="_blank"} site now and choose ‘Image Project’ from the three options:
+We're going to use it to create a Vision project, so navigate to the [Teachable Machine](https://teachablemachine.withgoogle.com/train){:target="_blank"} site and choose **Image Project** from the three options:
  
 ![starter project](images/starter_project.png)
 
@@ -16,11 +16,11 @@ We’re going to use it to create a Vision project, so navigate to the [Teachabl
 What you can see here is your model **Workflow**:
 ![starter project](images/workflow.JPG)
 
-We are going to add some classes on the left first. ‘Classes’ are the different sets of data we give our teachable machine.
+We are going to add some classes on the left first. **Classes** are the different sets of data we give our teachable machine.
 
-Once we have created our datasets as classes, we will train our machine to recognise similarities and differences between our images in the class. 
+Once we have created our data sets as classes, we will train our machine to recognise similarities and differences between our images in the class. 
 
-Once trained, we’ll test and **export** your model so it can be used in Scratch!
+Once trained, we'll test and **export** your model so it can be used in Scratch!
 
 --- task ---
 Choose an object or picture to use as your subject. I used a printed out version of the Hacker Hotdog, but you could also use a toy or other image.
@@ -29,7 +29,7 @@ Choose an object or picture to use as your subject. I used a printed out version
 
 --- task ---
 
-In the box labelled Class 1 click the button labelled ‘Webcam’.
+In the box labelled **Class 1**, click the button labelled **Webcam**.
 ![Webcam button](images/webcam.png)
 
 --- /task ---
@@ -43,16 +43,16 @@ Hold down the blue ‘record’ button and move your object around in front of t
 
 --- collapse ---
 ---
-title: Pro Tip
+title: Pro tip
 ---
-Try not to sit too still if you’re in the shot - it might mean the AI recognises you instead of the thing you want!
+Try not to sit too still if you are in the shot — it might mean the AI recognises you instead of the thing you want!
 
 --- /collapse ---
 
 --- /task ---
 
 --- task ---
-Rename the class to the thing you are holding up in the picture. This will help when you begin working in Scratch. I've called my class **hotdog**.
+Rename the class to the thing that you are holding up in the picture. This will help when you begin working in Scratch. I've called my class **hotdog**.
 ![Class Name Edit](images/classname.png)
 
 --- /task ---
@@ -66,19 +66,19 @@ Change the name of your second empty class to **not** and the name of your objec
 --- /task ---
 
 --- task ---
-Hold down the record button under your empty class and move around in front of your camera, or hold up several things that are **NOT** your object. 
+Hold down the record button under your empty class and move around in front of your camera, or hold up several things that are **NOT** your object.
 
 This will train the AI on things that are **not** your object and allow it to compare. 
 ![Class Name Edit 2](images/classname2.png)
 
 --- /task ---
 
-Now that we have our two datasets created, we will train the model to recognise the difference between them and tell us if it sees a hotdog or something else. 
+Now that we have our two data sets created, we will train the model to recognise the difference between them and tell us if it sees a hotdog or something else. 
 
 --- task ---
-To the right of the place where you can see your datasets, there is a grey button labelled **Train Model**. 
+To the right of the place where you can see your data sets, there is a grey button labelled **Train Model**. 
 
-Click it to begin training the Teachable machine:
+Click it to begin training the Teachable Machine:
 ![Train Model Button](images/trainmodel.png)
 **IMPORTANT:** Do **NOT** close or change your browser tab while you are waiting or the Training won't work!
 ![Training Warning](images/trainingwarning.png)
@@ -102,7 +102,7 @@ The next step is to **Export** your model. This means saving the model online so
 You can easily export your model by clicking the button shown on the top right of your screen:
 ![Export Button](images/exportbutton.png)
 
-This will show you a popup asking you to choose few options.
+This will show you a pop-up asking you to choose few options.
 
 Ensure you have **Upload (shareable link)** selected and click **Upload my model**. This will save your image recognition model to the cloud and return a URL we can use in Scratch.
 
@@ -111,8 +111,8 @@ Ensure you have **Upload (shareable link)** selected and click **Upload my model
 --- /task ---
 
 --- task ---
-Copy the URL shown under **Your shareable link:** by clicking the **Copy** button.
+Copy the URL shown under **Your sharable link:** by clicking the **Copy** button.
 ![Copy your shareable link](images/copybutton.png)
 
-Leave this tab open, or paste your URL into a text file so you don't lose it - we'll need it for Scratch in just a minute!
+Leave this tab open, or paste your URL into a text file so you don't lose it — we'll need it for Scratch in just a minute!
 --- /task ---
