@@ -1,7 +1,7 @@
 ## What next?
 In this project, you imported a unique data set, then trained a model to recognise the classes of data within that set and tested that it works. What you now do with your image recognition machine is up to you!
 
-For starters, you could:
+For example, you could:
 - Add sounds to your project for each class
 - Make the sprite change costume for each class
 - Add more classes to your cloud model
