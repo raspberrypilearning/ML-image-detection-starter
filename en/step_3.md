@@ -1,38 +1,38 @@
 ## Make an image detector
 
-Now you are going to take your exported model and make an image detector in Scratch!
+In this step, you will take your exported model and make an image detector in Scratch!
 
 --- task ---
-Open the blank Machine Learning Scratch project (if you haven't already) [by clicking here](http://rpf.io/ml-scratch){:target="_blank"}.
+Open the [blank machine learning Scratch project](http://rpf.io/ml-scratch){:target="_blank"} (if you haven't already).
 
 --- collapse ---
 ---
-title: Pro tip
+title: Tip
 ---
-You can open a blank Machine Learning Scratch project any time by going to [rpf.io/ml-scratch](http://rpf.io/ml-scratch){:target="_blank"}!
+You can open a blank machine learning Scratch project any time by going to [rpf.io/ml-scratch](http://rpf.io/ml-scratch){:target="_blank"}!
 
 --- /collapse ---
 
 --- /task ---
 
-You should see a normal looking Scratch environment (with a few small differences) containing a single Sprite named Dani.
+You should see the Scratch environment that you are used to, with a few small differences. The project should contain a single sprite named **Dani**.
 
 --- task ---
 
-Make sure the sprite is selected before you start coding.
+Make sure that the **Dani** sprite is selected before you start to code.
 ![Dani sprite](images/Dani.png)
 
 --- /task ---
 
-On the left, you will notice some new menus that do not exist in the normal version of Scratch. These are special extensions created by MIT to work with some really cool new technology, and they make this fork incompatible with the version of Scratch that you usually use. 
+On the left-hand side, you will notice some new Blocks menus that do not exist in the version of Scratch that you are used to. These are special extensions created by MIT to work with some really cool new technology, and they make this fork incompatible with the version of Scratch that you usually use.
 
-What that means is that any projects you make here, won't work there. 
+That means that any projects that you make in this fork of Scratch will not work in the version of Scratch that you are used to.
 
 --- collapse ---
 ---
-title: Saving your work
+title: How to save your work
 ---
-Because this fork of Scratch is different to the normal one, you won't be able to save your work the same way and your project will be incompatible with your Scratch account. You will need to download your project to your machine, and open it again **in this specific online version of Scratch** to use or edit it.
+This fork of Scratch is different to the version of Scratch that you are used to, so you will not be able to save your work in the same way as in Scratch, and your project will be incompatible with your Scratch account. You will need to download your project to your machine, and open it again **in this specific online version of Scratch** to use or edit it.
 
 --- /collapse ---
 
@@ -43,53 +43,53 @@ For this project, you need to open the `Teachable Machine`{:class="block3extensi
 --- /task ---
 
 --- task ---
-Paste the URL that you copied from the Teachable Machine in the previous step into the `Use Model`{:class="block3extensions"} block at the top of the menu:
+Paste the URL that you copied from the Teachable Machine in the previous step into the `use model`{:class="block3extensions"} block at the top of the `Teachable Machine`{:class="block3extensions"} blocks menu:
 ![Teachable Machine Menu Icon](images/usemodelblock.png)
 
-This will direct Scratch to access the model we just created and stored on the cloud, so it can detect **your** images.
+This will direct Scratch to access the model that you just created and stored on the cloud, so that it can detect **your** images.
 
 --- /task ---
 
 --- task ---
 
-Add the updated `Use Model`{:class="block3extensions"} block, along with a `when green flag clicked`{:class="block3events"} block to your workspace.
+Add the updated `use model`{:class="block3extensions"} block, along with a `when green flag clicked`{:class="block3events"} block, to the Code area.
 ![Script blocks 1](images/script1.png)
 
 --- /task ---
 
-This means that when we start our program, Scratch will immediately access your model from where it is stored. This takes a little time to initiate the first time you use it, so be patient when you run your project later.
+This means that when you start your program, Scratch will immediately access your model from where it is stored. This takes a little time to initiate the first time you use it, so be patient when you run your project later.
 
 --- task ---
 
-Now add a `turn video on`{:class="block3extensions"} block to make sure your camera can detect things, and a `set video transparency to`{:class="block3extensions"}`0` block so that the picture it provides is as clear as possible:
+Now add a `turn video on`{:class="block3extensions"} block to make sure that your camera can detect things, and a `set video transparency to`{:class="block3extensions"}`0` block so that the picture that it provides is as clear as possible:
 ![Script blocks 2](images/script2.png)
 
 --- /task ---
 
 --- task ---
 
-Click the green flag to instantiate your model and check to see if the camera is working.
+Click on the green flag to instantiate your model and check to see if the camera is working.
 
 --- /task ---
 
-Now we need to create the script that will detect our two different classes, using the model we have just linked.
+Now you need to create the script that will detect your two different classes, using the model that you have just linked.
 
 --- task ---
 
-Drag a `When model detects`{:class="block3extensions"} block into your workspace and choose the first class name from the dropdown. In my example, it is ```hotdog```.
+Drag a `when model detects`{:class="block3extensions"} block into the Code area and choose the name of your first class in the drop-down menu. In this example, it is `hotdog`{:class="block3extensions"}.
 ![Script blocks 3](images/script3.png)
 --- /task ---
 
 --- task ---
 
-Drag a `say`{:class="block3looks"} block into your workspace and add a message that will indicate what is detected.
+Drag a `say`{:class="block3looks"} block into the Code area and add a message that will say what is detected.
 ![Script blocks 4](images/script4.png)
 
 --- /task ---
 
 --- task ---
 
-Repeat the above step, for your alternate class. In my example, it is ```nothotdog```.
+Repeat the above step for your second class. In this example, it is `nothotdog`{:class="block3extensions"}.
 ![Script blocks 5](images/script5.png)
 
 --- /task ---
