@@ -32,7 +32,7 @@ That means that any projects that you make in this fork of Scratch will not work
 ---
 title: How to save your work
 ---
-This fork of Scratch is different to the version of Scratch that you are used to, so you will not be able to save your work in the same way as in Scratch, and your project will be incompatible with your Scratch account. You will need to download your project to your machine, and open it again **in this specific online version of Scratch** to use or edit it.
+This fork of Scratch is different to the version of Scratch that you are used to, so you will not be able to save your work in the same way as in Scratch, and your project will be incompatible with your Scratch account. You will need to download your project to your device, and open it again **in this specific online version of Scratch** to use or edit it.
 
 --- /collapse ---
 
@@ -53,7 +53,7 @@ This will direct Scratch to access the model that you just created and stored on
 --- task ---
 
 Add the updated `use model`{:class="block3extensions"} block, along with a `when green flag clicked`{:class="block3events"} block, to the Code area.
-![Script blocks 1](images/script1.png)
+![Image showing first Script blocks in project — When Green Flag Clicked + Use Model](images/script1.png)
 
 --- /task ---
 
@@ -62,7 +62,7 @@ This means that when you start your program, Scratch will immediately access you
 --- task ---
 
 Now add a `turn video on`{:class="block3extensions"} block to make sure that your camera can detect things, and a `set video transparency to`{:class="block3extensions"}`0` block so that the picture that it provides is as clear as possible:
-![Script blocks 2](images/script2.png)
+![Image showing second Script blocks snippet](images/script2.png)
 
 --- /task ---
 
@@ -77,20 +77,20 @@ Now you need to create the script that will detect your two different classes, u
 --- task ---
 
 Drag a `when model detects`{:class="block3extensions"} block into the Code area and choose the name of your first class in the drop-down menu. In this example, it is `hotdog`{:class="block3extensions"}.
-![Script blocks 3](images/script3.png)
+![Script block — When model detects (hotdog)](images/script3.png)
 --- /task ---
 
 --- task ---
 
 Drag a `say`{:class="block3looks"} block into the Code area and add a message that will say what is detected.
-![Script blocks 4](images/script4.png)
+![Script blocks — When model detects(hotdog) + say(hotdog)](images/script4.png)
 
 --- /task ---
 
 --- task ---
 
 Repeat the above step for your second class. In this example, it is `nothotdog`{:class="block3extensions"}.
-![Script blocks 5](images/script5.png)
+![Script blocks — When model detects(nothotdog) + say(nothotdog)](images/script5.png)
 
 --- /task ---
 
