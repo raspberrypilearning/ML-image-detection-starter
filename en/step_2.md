@@ -10,11 +10,11 @@ Let's get started!
 --- task ---
 You are going to use Teachable Machine to create a vision project, so go to the [Teachable Machine website](https://teachablemachine.withgoogle.com/train){:target="_blank"} and choose **Image Project** from the three options:
  
-![starter project](images/starter_project.png)
+![Image showing Image Project launch button](images/starter_project.png)
 
 --- /task ---
 Here, you can see your model **Workflow**:
-![starter project](images/workflow.JPG)
+![Image showing Workflow diagram screenshot](images/workflow.JPG)
 
 First, you will add some classes on the left-hand side. **Classes** are the different sets of data that we give to the Teachable Machine.
 
@@ -24,7 +24,7 @@ Once it is trained, you will test and **export** your model so it can be used in
 
 --- task ---
 Choose an object or picture to use as your subject. In this example, we will use a printed image of the Hotdog mascot, but you could also use a toy or other image.
-![Hotdog Man](images/hotdog-200x250.png)
+![Hotdog mascot](images/hotdog-200x250.png)
 --- /task ---
 
 --- task ---
@@ -53,7 +53,7 @@ Try not to sit too still if you are in the shot — if you are too still, the Te
 
 --- task ---
 Rename the class to the thing that you are holding up in the picture. This will help when you begin working in Scratch. In this example, we have called the class **Hotdog**.
-![Class Name Edit](images/classname.png)
+![Image showing class name being edited](images/classname.png)
 
 --- /task ---
 
@@ -61,7 +61,7 @@ The Teachable Machine will not work with just one class. It needs a second class
 
 --- task ---
 Change the name of your second empty class to **not** and the name of your object. In this example, we have called the class **nothotdog**.
-![Class Name Edit 2](images/classname2.png)
+![Image showing finished edit to class name](images/classname2.png)
 
 --- /task ---
 
@@ -79,18 +79,18 @@ Now that you have created your two data sets, you will train the model to recogn
 To the right-hand side of your data sets, there is a grey button labelled **Train Model**.
 
 Click the **Train Model** button to begin training the Teachable Machine:
-![Train Model Button](images/trainmodel.png)
+![Train Model button](images/trainmodel.png)
 **IMPORTANT:** Do **not** close or change your browser tab while you are waiting or the training will not work!
-![Training Warning](images/trainingwarning.png)
+![Image showing warning not to close tab while training model](images/trainingwarning.png)
 
 --- /task ---
 
 When you have clicked the **Train Model** button, a progress bar will appear where the button was, showing how far through the training process the Teachable Machine has progressed:
-![Training Progress Bar](images/progressbar.png)
+![Training progress bar](images/progressbar.png)
 
 --- task ---
 Once you have trained your model, you can test that it works correctly: hold up the objects or images one at a time and watch the changing bars on the right-hand side of the screen. These bars show the model's certainty that it is looking at the object shown in one of the classes that you made:
-![Output Bars](images/outputbar.png)
+![Output bars](images/outputbar.png)
 
 Switch between different objects and watch the model predict what it is seeing!
 
@@ -100,19 +100,19 @@ The next step is to **Export** your model. This means saving the model online so
 
 --- task ---
 To export your model, click the **Export Model** button on the top right-hand side of your screen:
-![Export Button](images/exportbutton.png)
+![Export button](images/exportbutton.png)
 
 This will show you a pop-up asking you to choose few options.
 
 Select **Upload (shareable link)** and click on **Upload my model**. This will save your image recognition model to the cloud and return a URL that you can use in Scratch.
 
-![Export Options](images/exportoptions.png)
+![Image showing all Export Options to user](images/exportoptions.png)
 
 --- /task ---
 
 --- task ---
-Copy the URL shown under **Your sharable link:**. To do this, click the **Copy** button.
-![Copy your shareable link](images/copybutton.png)
+Copy the URL shown under **Your sharable link**. To do this, click the **Copy** button.
+![Image showing button to Copy your sharable link](images/copybutton.png)
 
 Leave this tab open, or paste your URL into a text file so that you don't lose it — you will need it in Scratch in the next step!
 --- /task ---
