@@ -8,7 +8,7 @@ In this project, you will use the amazing online machine learning engine called 
 In this project, you will use a cloud-based machine learning engine called Teachable Machine (with Scratch!) to create a project that will recognise a single image class (a hotdog) and tell you when it detects this image.
 
 In this project, we have used a **Hotdog** mascot but you will be able to detect any image or object you like in your project.
-![Hotdog Man](images/hotdog-200x250.png)
+![Hotdog mascot](images/hotdog-200x250.png)
 --- /no-print ---
 
 --- print-only ---
