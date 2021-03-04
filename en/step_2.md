@@ -69,7 +69,7 @@ Change the name of your second empty class to **not** and the name of your objec
 Hold down the **Hold to Record** button under your empty class and move around in front of your camera, or hold up several things that are **not** your object.
 
 This will train the Teachable Machine on things that are **not** your object and allow it to compare.
-![Class Name Edit 2](images/classname2.png)
+![Class Name Edit 2](images/record.png)
 
 --- /task ---
 
