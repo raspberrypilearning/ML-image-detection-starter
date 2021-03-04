@@ -1,14 +1,14 @@
 ## Introduction
 
-In this activity, you will use the amazing online machine learning engine called teachable machine with Scratch to create a project that will recognise different objects! 
+In this project, you will use the amazing online machine learning engine called Teachable Machine with Scratch to create a project that will recognise different objects! 
 
 ### What you will make
 
 --- no-print ---
-In this activity, you will use a cloud-based machine learning engine called Teachable Machine (with Scratch!) to create a project that will recognise a single image class (a hotdog) and tell you when it detects this image. 
+In this project, you will use a cloud-based machine learning engine called Teachable Machine (with Scratch!) to create a project that will recognise a single image class (a hotdog) and tell you when it detects this image.
 
-In this instance, we have used our *Hacker Hotdog* mascot but you will be able to detect any image or object you like in your project.
-![Hotdog Man](images/hotdog-200x250.png)
+In this project, we have used a **Hotdog** mascot but you will be able to detect any image or object you like in your project.
+![Hotdog mascot](images/hotdog-200x250.png)
 --- /no-print ---
 
 --- print-only ---
@@ -26,11 +26,11 @@ title: What you will need
 
 ### Software
 
-+ This project can only be completed using a special [online only 'fork'](http://rpf.io/ml-scratch){:target="_blank"} of Scratch 3 
++ This project can only be completed in a web browser using a [special 'fork' of Scratch 3](http://rpf.io/ml-scratch){:target="_blank"}
 
 ### Downloads
 
-+ Download the project [starter file](http://rpf.io/p/en/hotdog-not-hotdog-starter-go){:target="_blank"} if working offline
++ If you are working offline, download the [project starter file](http://rpf.io/p/en/hotdog-not-hotdog-starter-go){:target="_blank"}
 
 --- /collapse ---
 
@@ -50,7 +50,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can download the completed project [here](https://rpf.io/p/en/hotdog-not-hotdog-get){:target="_blank"}. You will need to open the project again in the [online only 'fork'](http://rpf.io/ml-scratch){:target="_blank"} of Scratch 3 and paste in your own Teachable Machine model URL.
+You can [download the completed project here](https://rpf.io/p/en/hotdog-not-hotdog-get){:target="_blank"}. You will need to open the completed project in [this 'fork' of Scratch 3](http://rpf.io/ml-scratch){:target="_blank"} (only available online) and paste in your own Teachable Machine model URL.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/hotdog-not-hotdog/print){:target="_blank"}.
 
