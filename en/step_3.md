@@ -38,13 +38,13 @@ This fork of Scratch is different to the version of Scratch that you are used to
 
 --- task ---
 For this project, you need to open the `Teachable Machine`{:class="block3extensions"} blocks menu:
-![Teachable Machine Menu Icon](images/tm_menu.png)
+![Teachable Machine menu icon](images/tm_menu.png)
 
 --- /task ---
 
 --- task ---
 Paste the URL that you copied from the Teachable Machine in the previous step into the `use model`{:class="block3extensions"} block at the top of the `Teachable Machine`{:class="block3extensions"} blocks menu:
-![Teachable Machine Menu Icon](images/usemodelblock.png)
+![Image showing Use Model block containing copied URL for Teachable Machine model as insert](images/usemodelblock.png)
 
 This will direct Scratch to access the model that you just created and stored on the cloud, so that it can detect **your** images.
 
@@ -53,7 +53,7 @@ This will direct Scratch to access the model that you just created and stored on
 --- task ---
 
 Add the updated `use model`{:class="block3extensions"} block, along with a `when green flag clicked`{:class="block3events"} block, to the Code area.
-![Image showing first Script blocks in project — When Green Flag Clicked + Use Model](images/script1.png)
+![Image showing first script blocks in project — When Green Flag Clicked + Use Model](images/script1.png)
 
 --- /task ---
 
@@ -62,7 +62,7 @@ This means that when you start your program, Scratch will immediately access you
 --- task ---
 
 Now add a `turn video on`{:class="block3extensions"} block to make sure that your camera can detect things, and a `set video transparency to`{:class="block3extensions"}`0` block so that the picture that it provides is as clear as possible:
-![Image showing second Script blocks snippet](images/script2.png)
+![Image showing second script blocks snippet](images/script2.png)
 
 --- /task ---
 
@@ -83,14 +83,14 @@ Drag a `when model detects`{:class="block3extensions"} block into the Code area 
 --- task ---
 
 Drag a `say`{:class="block3looks"} block into the Code area and add a message that will say what is detected.
-![Script blocks — When model detects(hotdog) + say(hotdog)](images/script4.png)
+![Script blocks — When model detects(hotdog) + say(HOTDOG!)](images/script4.png)
 
 --- /task ---
 
 --- task ---
 
 Repeat the above step for your second class. In this example, it is `nothotdog`{:class="block3extensions"}.
-![Script blocks — When model detects(nothotdog) + say(nothotdog)](images/script5.png)
+![Script blocks — When model detects(nothotdog) + say(NOT HOTDOG!)](images/script5.png)
 
 --- /task ---
 

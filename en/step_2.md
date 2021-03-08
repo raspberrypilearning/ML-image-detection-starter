@@ -39,7 +39,7 @@ In the box labelled **Class 1**, click the button labelled **Webcam**.
 Take your object or image and hold it in front of your webcam.
 
 Hold down the blue **Hold to Record** button and move your object around in front of the camera so that it captures all the sides and odd angles that you can show the camera.
-![Record button](images/record.png)
+![Hold to Record button](images/record.png)
 
 --- collapse ---
 ---
@@ -53,7 +53,7 @@ Try not to sit too still if you are in the shot — if you are too still, the Te
 
 --- task ---
 Rename the class to the thing that you are holding up in the picture. This will help when you begin working in Scratch. In this example, we have called the class **Hotdog**.
-![Image showing class name being edited](images/classname.png)
+![Image showing class name edited to Hotdog](images/classname.png)
 
 --- /task ---
 
@@ -61,7 +61,7 @@ The Teachable Machine will not work with just one class. It needs a second class
 
 --- task ---
 Change the name of your second empty class to **not** and the name of your object. In this example, we have called the class **nothotdog**.
-![Image showing finished edit to class name](images/classname2.png)
+![Image showing class name edited to nothotdog](images/classname2.png)
 
 --- /task ---
 
@@ -69,7 +69,7 @@ Change the name of your second empty class to **not** and the name of your objec
 Hold down the **Hold to Record** button under your empty class and move around in front of your camera, or hold up several things that are **not** your object.
 
 This will train the Teachable Machine on things that are **not** your object and allow it to compare.
-![Class Name Edit 2](images/record.png)
+![Image showing Hold to Record button](images/record.png)
 
 --- /task ---
 
@@ -96,17 +96,17 @@ Switch between different objects and watch the model predict what it is seeing!
 
 --- /task ---
 
-The next step is to **Export** your model. This means saving the model online so you can use it in your Scratch project.
+The next step is to **export** your model. This means saving the model online so you can use it in your Scratch project.
 
 --- task ---
 To export your model, click the **Export Model** button on the top right-hand side of your screen:
-![Export button](images/exportbutton.png)
+![Export Model button](images/exportbutton.png)
 
 This will show you a pop-up asking you to choose few options.
 
 Select **Upload (shareable link)** and click on **Upload my model**. This will save your image recognition model to the cloud and return a URL that you can use in Scratch.
 
-![Image showing all Export Options to user](images/exportoptions.png)
+![Image showing all export options to user](images/exportoptions.png)
 
 --- /task ---
 
