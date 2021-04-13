@@ -20,11 +20,11 @@ You should see the Scratch environment that you are used to, with a few small di
 --- task ---
 
 Make sure that the **Dani** sprite is selected before you start to code.
-![Dani sprite](images/Dani.png)
+![The Dani sprite selected in the Sprite list.](images/Dani.png)
 
 --- /task ---
 
-On the left-hand side, you will notice some new Blocks menus that do not exist in the version of Scratch that you are used to. These are special extensions created by MIT to work with some really cool new technology, and they make this fork incompatible with the version of Scratch that you usually use.
+On the left-hand side, you will notice some new blocks menus that do not exist in the version of Scratch that you are used to. These are special extensions created by MIT to work with some really cool new technology, and they make this fork incompatible with the version of Scratch that you usually use.
 
 That means that any projects that you make in this fork of Scratch will not work in the version of Scratch that you are used to.
 
@@ -38,13 +38,13 @@ This fork of Scratch is different to the version of Scratch that you are used to
 
 --- task ---
 For this project, you need to open the `Teachable Machine`{:class="block3extensions"} blocks menu:
-![Image showing the 'Teachable Machine' menu icon](images/tm_menu.png)
+![The 'Teachable Machine' blocks menu icon.](images/tm_menu.png)
 
 --- /task ---
 
 --- task ---
 Paste the URL that you copied from the Teachable Machine in the previous step into the `use model`{:class="block3extensions"} block at the top of the `Teachable Machine`{:class="block3extensions"} blocks menu:
-![Image showing the 'use model' block containing the copied URL for the Teachable Machine model as the insert](images/usemodelblock.png)
+![The 'use model' block containing the copied URL of the Teachable Machine model as the insert.](images/usemodelblock.png)
 
 This will direct Scratch to access the model that you just created and stored on the cloud, so that it can detect **your** images.
 
@@ -52,8 +52,8 @@ This will direct Scratch to access the model that you just created and stored on
 
 --- task ---
 
-Add the updated `use model`{:class="block3extensions"} block, along with a `when green flag clicked`{:class="block3events"} block, to the Code area.
-![Image showing the first script blocks in the project — 'when green flag clicked' + 'use model'](images/script1.png)
+Add the updated `use model`{:class="block3extensions"} block, along with a `when green flag clicked`{:class="block3events"} block, in the Code area.
+![The first script blocks in the project — 'when green flag clicked' + 'use model'.](images/script1.png)
 
 --- /task ---
 
@@ -61,8 +61,8 @@ This means that when you start your program, Scratch will immediately access you
 
 --- task ---
 
-Now add a `turn video on`{:class="block3extensions"} block to make sure that your camera can detect things, and a `set video transparency to`{:class="block3extensions"}`0` block so that the picture that it provides is as clear as possible:
-![Image showing the second script blocks snippet](images/script2.png)
+Now, add a `turn video on`{:class="block3extensions"} block to make sure that your camera can detect things, and a `set video transparency to`{:class="block3extensions"} `0` block so that the picture that it provides is as clear as possible:
+![The updated script.](images/script2.png)
 
 --- /task ---
 
@@ -72,30 +72,30 @@ Click on the green flag to instantiate your model and check to see if the camera
 
 --- /task ---
 
-Now you need to create the script that will detect your two different classes, using the model that you have just linked.
+Now, you need to create the script that will detect your two different classes, using the model that you have just linked.
 
 --- task ---
 
 Drag a `when model detects`{:class="block3extensions"} block into the Code area and choose the name of your first class in the drop-down menu. In this example, it is `hotdog`{:class="block3extensions"}.
-![Image showing the script block 'when model detects (hotdog)'](images/script3.png)
+![The 'when model detects (hotdog)' block.](images/script3.png)
 --- /task ---
 
 --- task ---
 
 Drag a `say`{:class="block3looks"} block into the Code area and add a message that will say what is detected.
-![Image showing the script blocks 'when model detects(hotdog)' + 'say(HOTDOG!)'](images/script4.png)
+![The script blocks 'when model detects(hotdog)' + 'say(HOTDOG!)'](images/script4.png)
 
 --- /task ---
 
 --- task ---
 
 Repeat the above step for your second class. In this example, it is `nothotdog`{:class="block3extensions"}.
-![Image showing the script blocks 'when model detects(nothotdog)' + 'say(NOT HOTDOG!)'](images/script5.png)
+![The script blocks 'when model detects(nothotdog)' + 'say(NOT HOTDOG!)'](images/script5.png)
 
 --- /task ---
 
 --- task ---
 
 Click on the green flag to run your new image detector!
-![Running program](images/running.png)
+![The running program.](images/running.png)
 --- /task ---
