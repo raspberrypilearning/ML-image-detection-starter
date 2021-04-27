@@ -29,9 +29,10 @@ Choose an object or picture to use as your subject. In this example, we will use
 
 --- task ---
 
-In the box labelled **Class 1**, click the button labelled **Webcam**.
+In the box labelled **Class 1**, click the button labelled **Webcam**. If the browser asks you for permission to use the camera, click **Allow**.
 ![The 'Webcam' button highlighted.](images/webcam.png)
 
+**Tip:** For this activity, pointing your camera away from your face or sitting out of the shot will make sure that you aren't storing images of yourself on the cloud unnecessarily. 
 --- /task ---
 
 --- task ---
