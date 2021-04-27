@@ -28,10 +28,6 @@ title: What you will need
 
 + This project can only be completed in a web browser using a [special 'fork' of Scratch 3](http://rpf.io/ml-scratch){:target="_blank"}
 
-### Downloads
-
-+ If you are working offline, download the [project starter file](http://rpf.io/p/en/hotdog-not-hotdog-starter-go){:target="_blank"}
-
 --- /collapse ---
 
 --- collapse ---
