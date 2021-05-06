@@ -109,9 +109,9 @@ The next step is to **export** your model. This means saving the model online so
 To export your model, click the **Export Model** button on the top right-hand side of your screen:
 ![Image of the 'Export Model' button.](images/exportbutton.png)
 
-This will show you a pop-up asking you to choose few options.
+This will show you a pop-up asking you to choose a few options, but we really just want to use the default settings provided
 
-Select **Upload (shareable link)** and click on **Upload my model**. This will save your image recognition model to the cloud and return a URL that you can use in Scratch.
+Makr sure **Upload (shareable link)** is selected and click on the button that says **Upload my model**. This will save your image recognition model to the cloud and return a URL that you can use in Scratch.
 
 ![All export options shown to the user.](images/exportoptions.png)
 
