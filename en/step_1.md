@@ -2,7 +2,7 @@
 
 In this project, you will use the amazing online machine learning engine called Teachable Machine with Scratch to create a project that will recognise different objects! 
 
-**Remember that the image model you are going to create will be stored on the cloud, so make sure you have nothing that could identify your name or location in the shot, and get permission from your parents to create and use the camera first.**
+**Remember that the image model that you are going to create will be stored on the cloud, so make sure that you have nothing that could identify your name or location in the shot, and get permission from your parents to create the model and use the camera first.**
 
 ### What you will make
 

@@ -16,11 +16,11 @@ You are going to use Teachable Machine to create a vision project, so go to the 
 Here, you can see your model **Workflow**:
 ![The Workflow diagram.](images/workflow.JPG)
 
-First, you will add some classes on the left-hand side. **Classes** are the different sets of data that we give to the Teachable Machine.
+First, you will add some classes on the left-hand side. **Classes** are the different sets of data that we give to Teachable Machine.
 
-Once you have created your data sets as classes, you will train the Teachable Machine to recognise similarities and differences between your images in the class.
+Once you have created your data sets as classes, you will train Teachable Machine to recognise similarities and differences between your images in the class.
 
-Once it is trained, you will test and **export** your model so it can be used in Scratch!
+Once it is trained, you will test and **export** your model so that it can be used in Scratch!
 
 --- task ---
 Choose an object or picture to use as your subject. In this example, we will use a printed image of the Hotdog mascot, but you could also use a toy or other image.
@@ -29,14 +29,14 @@ Choose an object or picture to use as your subject. In this example, we will use
 
 --- task ---
 
-In the box labelled **Class 1**, click the button labelled **Webcam**. If the browser asks you for permission to use the camera, click **Allow**.
+In the box labelled **Class 1**, click the button labelled **Webcam**. If the browser asks you for permission to use the camera, click on **Allow**.
 ![The 'Webcam' button highlighted.](images/webcam.png)
 
 --- collapse ---
 ---
-title: Safety Tip
+title: Safety tip
 --- 
-For this activity, pointing your camera away from your face or sitting out of the shot will make sure that you aren't storing images of yourself on the cloud unnecessarily. 
+For this activity, point your camera away from your face or sit out of the shot, to make sure that you are not storing images of yourself on the cloud unnecessarily. 
 --- /collapse ---
 
 --- /task ---
@@ -52,7 +52,7 @@ Hold down the blue **Hold to Record** button and move your object around in fron
 ---
 title: Tip
 ---
-Try not to sit too still if you are in the shot — if you are too still, the Teachable Machine might recognise you instead of the thing that you are holding up!
+Try not to sit too still if you are in the shot — if you are too still, Teachable Machine might recognise you instead of the thing that you are holding up!
 
 --- /collapse ---
 
@@ -64,7 +64,7 @@ Rename the class to the thing that you are holding up in the picture. This will 
 
 --- /task ---
 
-The Teachable Machine will not work with just one class. It needs a second class to compare against, so you will create that now.
+Teachable Machine will not work with just one class. It needs a second class to compare against, so you will create that now.
 
 --- task ---
 Change the name of your second empty class to `not` and the name of your object. In this example, we have called the class **nothotdog**.
@@ -75,7 +75,7 @@ Change the name of your second empty class to `not` and the name of your object.
 --- task ---
 Hold down the **Hold to Record** button under your empty class and move around in front of your camera, or hold up several things that are **not** your object.
 
-This will train the Teachable Machine on things that are **not** your object and allow it to compare.
+This will train Teachable Machine on things that are **not** your object and allow it to compare.
 ![The 'Hold to Record' button highlighted.](images/record2.png)
 
 --- /task ---
@@ -85,14 +85,14 @@ Now that you have created your two data sets, you will train the model to recogn
 --- task ---
 To the right-hand side of your data sets, there is a grey button labelled **Train Model**.
 
-Click the **Train Model** button to begin training the Teachable Machine:
+Click the **Train Model** button to begin training Teachable Machine:
 ![Image of the 'Train Model' button.](images/trainmodel.png)
 **IMPORTANT:** Do **not** close or change your browser tab while you are waiting, or the training will not work!
 ![A warning not to close the tab while training the model.](images/trainingwarning.png)
 
 --- /task ---
 
-When you have clicked the **Train Model** button, a progress bar will appear where the button was, showing how far through the training process the Teachable Machine has progressed:
+When you have clicked the **Train Model** button, a progress bar will appear where the button was, showing how far through the training process Teachable Machine has progressed:
 ![The 'Training' progress bar.](images/progressbar.png)
 
 --- task ---
@@ -109,9 +109,9 @@ The next step is to **export** your model. This means saving the model online so
 To export your model, click the **Export Model** button on the top right-hand side of your screen:
 ![Image of the 'Export Model' button.](images/exportbutton.png)
 
-This will show you a pop-up asking you to choose a few options, but we really just want to use the default settings provided
+This will show you a pop-up asking you to choose a few options, but we really just want to use the default settings provided.
 
-Makr sure **Upload (shareable link)** is selected and click on the button that says **Upload my model**. This will save your image recognition model to the cloud and return a URL that you can use in Scratch.
+Make sure that **Upload (shareable link)** is selected, and click the button that says **Upload my model**. This will save your image recognition model to the cloud and return a URL that you can use in Scratch.
 
 ![All export options shown to the user.](images/exportoptions.png)
 
