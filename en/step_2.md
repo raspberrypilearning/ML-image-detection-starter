@@ -34,7 +34,7 @@ In the box labelled **Class 1**, click the button labelled **Webcam**. If the br
 
 --- collapse ---
 ---
-title: Tip
+title: Safety Tip
 --- 
 For this activity, pointing your camera away from your face or sitting out of the shot will make sure that you aren't storing images of yourself on the cloud unnecessarily. 
 --- /collapse ---

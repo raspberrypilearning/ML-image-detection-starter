@@ -62,7 +62,7 @@ This means that when you start your program, Scratch will immediately access you
 --- task ---
 
 Now, add a `turn video on`{:class="block3extensions"} block to make sure that your camera can detect things, and a `set video transparency to`{:class="block3extensions"} `0` block so that the picture that it provides is as clear as possible:
-![The updated script.](images/script2.png)
+![The updated script which contains a turn video on block and a set video transparency to zero block.](images/script2.png)
 
 --- /task ---
 
