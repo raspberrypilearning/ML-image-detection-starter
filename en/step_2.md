@@ -23,7 +23,7 @@ Once you have created your data sets as classes, you will train Teachable Machin
 Once it is trained, you will test and **export** your model so that it can be used in Scratch!
 
 --- task ---
-Choose an object or picture to use as your subject. In this example, we will use a printed image of the Hotdog mascot, but you could also use a toy or other image.
+Choose an object or picture to use as your subject. In this example, we will use an image of the Hotdog mascot, but you could also use a toy or other image.
 ![The Hotdog mascot.](images/hotdog-200x250.png)
 --- /task ---
 
@@ -36,7 +36,7 @@ In the box labelled **Class 1**, click the button labelled **Webcam**. If the br
 ---
 title: Safety tip
 --- 
-For this activity, point your camera away from your face or sit out of the shot, to make sure that you are not storing images of yourself on the cloud unnecessarily. 
+For this project, point your camera away from your face or sit out of the shot, to make sure that you are not storing images of yourself on the cloud unnecessarily. 
 --- /collapse ---
 
 --- /task ---
@@ -109,7 +109,7 @@ The next step is to **export** your model. This means saving the model online so
 To export your model, click the **Export Model** button on the top right-hand side of your screen:
 ![Image of the 'Export Model' button.](images/exportbutton.png)
 
-This will show you a pop-up asking you to choose a few options, but we really just want to use the default settings provided.
+This will show you a pop-up asking you to choose a few options, but you can just use the default settings provided.
 
 Make sure that **Upload (shareable link)** is selected, and click the button that says **Upload my model**. This will save your image recognition model to the cloud and return a URL that you can use in Scratch.
 
