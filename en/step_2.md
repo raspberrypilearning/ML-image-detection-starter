@@ -73,7 +73,7 @@ Change the name of your second empty class to `not` and the name of your object.
 --- /task ---
 
 --- task ---
-Hold down the **Hold to Record** button under your empty class and move around in front of your camera, or hold up several things that are **not** your object.
+Hold down the **Hold to Record** button under your empty class and move your object around in front of the camera so that it captures all the sides and odd angles that you can show the camera, or hold up several things that are **not** your object if you only want to detect one thing. 
 
 This will train Teachable Machine on things that are **not** your object and allow it to compare.
 ![The 'Hold to Record' button highlighted.](images/record2.png)
