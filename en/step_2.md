@@ -58,7 +58,7 @@ Try not to sit too still if you are in the shot — if you are too still, Teacha
 --- /task ---
 
 --- task ---
-Rename the class to the thing that you are holding up in the picture. This will help when you begin working in Scratch. In this example, we have called the class **Hotdog**.
+Rename the class to the thing that you are holding up in the picture. This will help when you begin working in Scratch. In this example, we have called the class ```Hotdog```.
 ![The class name field highlighted, with the name "Hotdog".](images/classname.png)
 
 --- /task ---
@@ -66,15 +66,15 @@ Rename the class to the thing that you are holding up in the picture. This will 
 Teachable Machine will not work with just one class. It needs a second class to compare against, so you will create that now. It is possible to create multiple classes that Teachable Machine can identify, but we're going to make just one that includes everything that **isn't** a hotdog.
 
 --- task ---
-Change the name of your second empty class to `not` and the name of your object. In this example, we have called the class **nothotdog**. 
+Change the name of your second empty class to ```not``` and the name of your object. In this example, we have called the class ```nothotdog```. 
 ![The class name field highlighted, with the name "nothotdog".](images/classname2.png)
 
 --- /task ---
 
 --- task ---
-Hold down the **Hold to Record** button under your empty class and move your object around in front of the camera so that it captures all the sides and odd angles that you can show the camera, or hold up several things that are **not** your object if you only want to detect one thing. 
+Hold down the **Hold to Record** button under your empty class and move any other objects around in front of the camera so that it captures all the sides and odd angles that you can show.
 
-This will train Teachable Machine on things that are **not** your object and allow it to compare.
+This will train Teachable Machine on things that are **not** your object (or hotdog) and allow it to compare them against images of the object to confirm they are ```nothotdog```.
 ![The 'Hold to Record' button highlighted.](images/record2.png)
 
 --- /task ---
