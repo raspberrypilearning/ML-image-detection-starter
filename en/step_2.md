@@ -6,6 +6,12 @@ Teachable Machine is a web-based tool created by Google that makes creating mach
 
 Let's get started!
 
+--- collapse ---
+---
+title: Safety tip
+--- 
+For this project, point your camera away from your face or sit out of the shot, to make sure that you are not storing images of yourself on the cloud unnecessarily. 
+--- /collapse ---
 
 --- task ---
 You are going to use Teachable Machine to create a vision project, so go to the [Teachable Machine website](https://teachablemachine.withgoogle.com/train){:target="_blank"} and choose **Image Project** from the three options:
@@ -32,20 +38,13 @@ Choose an object or picture to use as your subject. In this example, we will use
 In the box labelled **Class 1**, click the button labelled **Webcam**. If the browser asks you for permission to use the camera, click on **Allow**.
 ![The 'Webcam' button highlighted.](images/webcam.png)
 
---- collapse ---
----
-title: Safety tip
---- 
-For this project, point your camera away from your face or sit out of the shot, to make sure that you are not storing images of yourself on the cloud unnecessarily. 
---- /collapse ---
-
 --- /task ---
 
 --- task ---
 
 Take your object or image and hold it in front of your webcam.
 
-Hold down the blue **Hold to Record** button and move your object around in front of the camera so that it captures all the sides and odd angles that you can show the camera.
+Hold down the blue **Hold to Record** button and move your object around in front of the camera so that it captures all the sides and odd angles that you can show the camera. Try to point your camera away from your face or sit out of the shot, to make sure that you are not storing images of yourself on the cloud unnecessarily.
 ![The 'Hold to Record' button highlighted.](images/record.png)
 
 --- collapse ---
@@ -64,10 +63,10 @@ Rename the class to the thing that you are holding up in the picture. This will 
 
 --- /task ---
 
-Teachable Machine will not work with just one class. It needs a second class to compare against, so you will create that now.
+Teachable Machine will not work with just one class. It needs a second class to compare against, so you will create that now. It is possible to create multiple classes that Teachable Machine can identify, but we're going to make just one that includes everything that **isn't** a hotdog.
 
 --- task ---
-Change the name of your second empty class to `not` and the name of your object. In this example, we have called the class **nothotdog**.
+Change the name of your second empty class to `not` and the name of your object. In this example, we have called the class **nothotdog**. 
 ![The class name field highlighted, with the name "nothotdog".](images/classname2.png)
 
 --- /task ---
